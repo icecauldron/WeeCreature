@@ -1,6 +1,9 @@
 # WeeCreature
 Planning, rearing, intentions, and flow charts for critter's receival of maximum optimizations.
 
+Menstration Cycle Tracking:
+
+[Period Sheet](https://docs.google.com/spreadsheets/d/1MH-w-7wf6tsY6U3xo4c1c-DQ-ruJZNJV6rK8kFHOEwA/edit?usp=sharing)
 
 Some resources:  
 [Beyond the Nuclear Family: An Evolutionary Perspective on Parenting](https://researchonline.lshtm.ac.uk/id/eprint/2533959/11/Parenting%20COP_revised_inclfigs-1.pdf)  
