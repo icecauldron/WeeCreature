@@ -13,7 +13,7 @@ Some resources:
 [How We Learn](https://www.goodreads.com/book/show/46064083-how-we-learn) covers a lot of ground on child development in terms of learning    
 [Deadlifting for babies](https://twitter.com/diviacaroline/status/1313286337647140864?s=20)  
 [Useful child abuse](https://www.gwern.net/on-really-trying#useful-child-abuse)  
-[Baby Bumps Subreddit](https://www.reddit.com/r/BabyBumps/wiki/index#wiki_common_questions_and_concerns)
+[Baby Bumps Subreddit](https://www.reddit.com/r/BabyBumps/wiki/index#wiki_common_questions_and_concerns)  
 [The Case Against Education](https://press.princeton.edu/books/hardcover/9780691174655/the-case-against-education)  
 [Some potential purposes of school](https://www.overcomingbias.com/2010/06/school-attitudes.html)  
 [Harriet Lane Handbook](https://www.elsevier.com/books/the-harriet-lane-handbook/the-johns-hopkins-hospital/978-0-323-67407-2) for pediatric care    
