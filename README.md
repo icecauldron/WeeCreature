@@ -12,6 +12,7 @@ Some resources:
 [Duncan Sabien's thoughts on education](https://medium.com/@ThingMaker/educ-101-axioms-f1cba0c85794#.rsibufxr6)  
 [How We Learn](https://www.goodreads.com/book/show/46064083-how-we-learn) covers a lot of ground on child development in terms of learning    
 [Deadlifting for babies](https://twitter.com/diviacaroline/status/1313286337647140864?s=20)  
+[Useful child abuse](https://www.gwern.net/on-really-trying#useful-child-abuse)  
 [Baby Bumps Subreddit](https://www.reddit.com/r/BabyBumps/wiki/index#wiki_common_questions_and_concerns)  
 [Harriet Lane Handbook](https://www.elsevier.com/books/the-harriet-lane-handbook/the-johns-hopkins-hospital/978-0-323-67407-2) for pediatric care    
 [Strong Moms podcast addresses lifting and kids](https://barbell-logic.com/strong-moms-series/)  
