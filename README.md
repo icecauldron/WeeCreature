@@ -12,5 +12,7 @@ Some resources:
 [Duncan Sabien's thoughts on education](https://medium.com/@ThingMaker/educ-101-axioms-f1cba0c85794#.rsibufxr6)  
 [How We Learn](https://www.goodreads.com/book/show/46064083-how-we-learn) covers a lot of ground on child development in terms of learning    
 [Deadlifting for babies](https://twitter.com/diviacaroline/status/1313286337647140864?s=20)  
+[Baby Bumps Subreddit](https://www.reddit.com/r/BabyBumps/wiki/index#wiki_common_questions_and_concerns)  
+[Harriet Lane Handbook](https://www.elsevier.com/books/the-harriet-lane-handbook/the-johns-hopkins-hospital/978-0-323-67407-2)  
 [Strong Moms podcast addresses lifting and kids](https://barbell-logic.com/strong-moms-series/)  
 Given the amount of anxiety around infants and childrearing, it appears that the industry and medical professionals tend to be overly careful in their statements. It's probable that it's not too complicated, given at least 300 generations of humans. As such, the common markers for when an infant "should" hit a learning landmark are conservative (paraphrased from selentelechia). Like all other human behavior, diversity and variance are to be expected.
