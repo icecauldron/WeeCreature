@@ -2,6 +2,8 @@ Perhaps we could do a bingo format for the middle name... where the community pu
 I'm less likely to be so generous with the first name. Willing to negotiate as time progresses, however. In ABC order, not in preference order.
 Letters in most lizards names that could be combined: ECERDCABGOETLSKLA...
 
+[Anagrams with these letters]-https://word.tips/unscramble/ECERDCABGOETLSK?v=v348)
+
 First name (All names subject to change): 
 
 Girl: Freyja, Maeve, Rosalind, Týr
