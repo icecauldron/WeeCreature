@@ -15,7 +15,7 @@ Some resources:
 [Useful child abuse](https://www.gwern.net/on-really-trying#useful-child-abuse)  
 [Baby Bumps Subreddit](https://www.reddit.com/r/BabyBumps/wiki/index#wiki_common_questions_and_concerns)
 [The Case Against Education](https://press.princeton.edu/books/hardcover/9780691174655/the-case-against-education)  
-[Some potential purposes of school](https://www.overcomingbias.com/2010/06/school-attitudes.html)
+[Some potential purposes of school](https://www.overcomingbias.com/2010/06/school-attitudes.html)  
 [Harriet Lane Handbook](https://www.elsevier.com/books/the-harriet-lane-handbook/the-johns-hopkins-hospital/978-0-323-67407-2) for pediatric care    
 [Strong Moms podcast addresses lifting and kids](https://barbell-logic.com/strong-moms-series/)  
 Given the amount of anxiety around infants and childrearing, it appears that the industry and medical professionals tend to be overly careful in their statements. It's probable that it's not too complicated, given at least 300 generations of humans. As such, the common markers for when an infant "should" hit a learning landmark are conservative (paraphrased from selentelechia). Like all other human behavior, diversity and variance are to be expected.
