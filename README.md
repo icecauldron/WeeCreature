@@ -24,6 +24,6 @@ Some resources:
 Given the amount of anxiety around infants and childrearing, it appears that the industry and medical professionals tend to be overly careful in their statements. It's probable that it's not too complicated, given at least 300 generations of humans. As such, the common markers for when an infant "should" hit a learning landmark are conservative (paraphrased from selentelechia). Like all other human behavior, diversity and variance are to be expected.\
 [What to eat, mum](https://www.fhcsd.org/prenatal-care/what-to-eat-during-pregnancy/)\
 [Nutrients needed](https://www.whattoexpect.com/pregnancy/diet/pregnancy-nutrition-chart/)\
-[Through Babies Eyes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5429397/)\
+[Through Baby's Eyes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5429397/)\
 [Facial and Verbal Stimuli - Emotional Valence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6676801/)
 
