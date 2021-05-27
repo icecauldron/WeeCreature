@@ -25,5 +25,5 @@ Given the amount of anxiety around infants and childrearing, it appears that the
 [What to eat, mum](https://www.fhcsd.org/prenatal-care/what-to-eat-during-pregnancy/)\
 [Nutrients needed](https://www.whattoexpect.com/pregnancy/diet/pregnancy-nutrition-chart/)\
 [Through Baby's Eyes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5429397/)\
-[Facial and Verbal Stimuli - Emotional Valence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6676801/)
+[Facial and Verbal Stimuli - Emotional Valence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6676801/)\
 [Raising Superheros or abuse?](http://www.idoportal.com/blog)
