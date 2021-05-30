@@ -13,5 +13,5 @@ Boy: Ash, Calix, Charis, Cina, Goethe, Mage, Remi, Ren, Rowan, Silas
 Uni: Ark, Tissi, Dao, Hel, Nott, Ticce, Firn, Stern, 
 
 **Middle Name (All names subject to change):**
-Dangera, Trouble, Impossible, Celebrated
+Dangera, Trouble, Impossible, Celebrated, Infinity
 
