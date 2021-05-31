@@ -8,9 +8,9 @@ Letters in most lizards names that could be combined: ECERDCABGOETLSKLAV...
 
 Girl: Freyja, Maeve, Rosalind, Týr
 
-Boy: Ash, Calix, Charis, Cina, Goethe, Mage, Remi, Ren, Rowan, Silas
+Boy: Calix, Charis, Cina, Goethe, Mage, Remi, Ren, Rowan, Silas
 
-Uni: Ark, Tissi, Dao, Hel, Nott, Ticce, Firn, Stern, 
+Uni: Ark, Tissi, Dao, Hel, Nott, Ticce, Firn, Stern, Leema, Mucha, Pose, Varry, Err, Ero
 
 **Middle Name (All names subject to change):**
 Dangera, Trouble, Impossible, Celebrated, Infinity
