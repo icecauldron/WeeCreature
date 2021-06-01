@@ -10,7 +10,7 @@ Girl: Freyja, Maeve, Rosalind, Týr
 
 Boy: Calix, Charis, Cina, Goethe, Mage, Remi, Ren, Rowan, Silas
 
-Uni: Ark, Tissi, Dao, Hel, Nott, Ticce, Firn, Stern, Leema, Mucha, Pose, Varry, Err, Ero
+Uni: Baldur, Ark, Tissi, Dao, Hel, Nott, Ticce, Firn, Stern, Leema, Mucha, Pose, Varry, Err, Ero
 
 **Middle Name (All names subject to change):**
 Dangera, Trouble, Impossible, Celebrated, Infinity
