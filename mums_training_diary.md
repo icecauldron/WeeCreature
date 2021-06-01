@@ -4,7 +4,8 @@ Going to the gym to bench and squat. Goal is apparently 100 lb bench and 210 lb 
 COMFORTABLE BENCH: 75 LBS\
 MAX BENCH: 95 LBS\
 COMFORTABLE SQUAT: 115 LBS\
-MAX SQUAT: 135 LBS
+MAX SQUAT: 135 LBS\
+-- Did other stuff, but don't feel like reporting on it. All that you need to know is that it covered the whole body.
 
 May 31, 2021\
 Just emailed [S & G BJJ](https://sgbjj.com/) to see if they may be willing to take me on as a student. I also asked for more information. 
