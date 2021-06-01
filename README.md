@@ -12,6 +12,8 @@ Some resources:
 [Play as a foundation of hunter-gatherer social existence](https://files.eric.ed.gov/fulltext/EJ1069037.pdf)  
 [Divia Eden](https://parentingtheoryandpractice.tumblr.com/)'s notes on parenting  
 [Laszlo Polgar](https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Polg%C3%A1r) set an intention to raise chess geniuses, which he did, successfully  
+[Raise a Genius!](https://slatestarcodex.com/Stuff/genius.pdf) Polgar's book on raising his children
+[The SSC Review of Raise a Genius!](https://slatestarcodex.com/2017/07/31/book-review-raise-a-genius/)
 [Duncan Sabien's thoughts on education](https://medium.com/@ThingMaker/educ-101-axioms-f1cba0c85794#.rsibufxr6)  
 [How We Learn](https://www.goodreads.com/book/show/46064083-how-we-learn) covers a lot of ground on child development in terms of learning    
 [Deadlifting for babies](https://twitter.com/diviacaroline/status/1313286337647140864?s=20)  
@@ -27,4 +29,7 @@ Given the amount of anxiety around infants and childrearing, it appears that the
 [Through Baby's Eyes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5429397/)\
 [Facial and Verbal Stimuli - Emotional Valence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6676801/)\
 [Raising Superheros or abuse?](http://www.idoportal.com/blog)  
-[Parenting from the Inside Out](https://www.goodreads.com/book/show/25343.Parenting_From_the_Inside_Out) deals with what happens if we're still reeling from our own upbringing and how that may transfer onto children.  
+[Parenting from the Inside Out](https://www.goodreads.com/book/show/25343.Parenting_From_the_Inside_Out) deals with what happens if we're still reeling from our own upbringing and how that may transfer onto children.
+[Evidence for ESSA](https://www.evidenceforessa.org/) School programs that meet the evidentiary standards of effectiveness for the Every Student Succeeds Act.
+[Overpowered Skill Trees](https://docs.google.com/document/d/1ZqsNSY7xSELjdRI9IQsh1wX_QXfUD74UwmKyqw48CXw/edit?usp=drivesdk) An outline of useful skills and conceptual frameworks that support creating desirable change internally and externally.
+[Delaying Formal Arithmetic Instruction](https://www.triviumpursuit.com/articles/research_on_teaching_math.php) There is significant evidence to suggest that arithmetic instruction can be rather informal and incidental until a child enters puberty, with little loss of efficacy.
