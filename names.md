@@ -6,7 +6,7 @@ Letters in most lizards names that could be combined: ECERDCABGOETLSKLAV...
 
 **First name (All names subject to change):**
 
-Girl: Freyja, Maeve, Rosalind, Týr, Clover, Minerva, Pathma
+Girl: Freyja, Maeve, Rosalind, Týr, Clover, Minerva, Pathma, Aire
 
 Boy: Calix, Charis, Cina, Goethe, Mage, Remi, Ren, Rowan, Silas
 
