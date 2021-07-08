@@ -1,4 +1,7 @@
 
+July 7th, 2021\
+S&G BJJ class - practiced the Eziekel, rolling, hand grips on gi
+
 June 1, 2021\
 Going to the gym to bench and squat. Goal is apparently 100 lb bench and 210 lb squat. Will report back on current max.\
 COMFORTABLE BENCH: 75 LBS\
