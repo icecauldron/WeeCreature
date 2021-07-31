@@ -10,7 +10,7 @@ Girl: Freyja, Maeve, Rosalind, Týr, Clover, Minerva, Aire, Letty, Petra, Lumina
 
 Boy: Calix, Charis, Cina, Goethe, Mage, Remi, Ren, Rowan, Silas
 
-Uni: Baldur, Ark, Tissi, Dao, Hel, Nott, Ticce, Firn, Stern, Leema, Mucha, Pose, Varry, Err, Ero, Fawkes, Omen, Arcane, Varo (E)
+Uni: Baldur, Ark, Tissi, Dao, Hel, Nott, Ticce, Firn, Stern, Leema, Mucha, Pose, Varry, Err, Ero, Fawkes, Omen, Arcane, Varo (E), Ravana, Varius
 
 **Middle Name (All names subject to change):**
-Dangera, Trouble, Impossible, Celebrated, Infinity, Incredible, Rejoice
+Dangera, Trouble, Impossible, Celebrated, Infinity, Incredible, Rejoice, Key, Daring, Incredible, Amazing, Uncanny, All-New, Astonishing, Avenging, Cosmic, Dark, Despicable, Extraordinary, Fearless, Friendly, Immortal, Sinister, Infamous, Invincible, Indestructible, International, Irredeemable, Legendary, Mighty, Magnificent, Maximum, Marvelous, Rampage, Spectacular, Superior, Unbelievable, Unstoppable, Extreme
