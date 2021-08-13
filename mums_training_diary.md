@@ -1,3 +1,8 @@
+August 12, 2021\
+This week we did pendulum sweep, flower sweep, bump sweep, last week - escape from being crunched over by double under
+Bench - max : 85
+Squat - max : 115
+Under assumption that I start with empty bar, do two sets, then add 5 lbs and continue
 
 July 7th, 2021\
 S&G BJJ class - practiced the Eziekel, rolling, hand grips on gi
