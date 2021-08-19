@@ -10,7 +10,7 @@ Some resources:
 [Touching](https://www.goodreads.com/book/show/355323.Touching) goes over the importance of touch  
 [Education is not about learning](https://www.gwern.net/education-is-not-about-learning)  
 [Play as a foundation of hunter-gatherer social existence](https://files.eric.ed.gov/fulltext/EJ1069037.pdf)  
-[Divia Eden](https://parentingtheoryandpractice.tumblr.com/)'s notes on parenting  
+[Divia Eden](https://parentingtheoryandpractice.tumblr.com/)'s notes on parenting. She also has a 100-tweet thread of her [observations here](https://mobile.twitter.com/diviacaroline/status/1206330350118547458).  
 [Laszlo Polgar](https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Polg%C3%A1r) set an intention to raise chess geniuses, which he did, successfully  
 [Raise a Genius!](https://slatestarcodex.com/Stuff/genius.pdf) Polgar's book on raising his children
 [The SSC Review of Raise a Genius!](https://slatestarcodex.com/2017/07/31/book-review-raise-a-genius/)
