@@ -13,7 +13,7 @@ Some resources:
 [Divia Eden](https://parentingtheoryandpractice.tumblr.com/)'s notes on parenting. She also has a 100-tweet thread of her [observations here](https://mobile.twitter.com/diviacaroline/status/1206330350118547458).  
 [Laszlo Polgar](https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Polg%C3%A1r) set an intention to raise chess geniuses, which he did, successfully  
 [Raise a Genius!](https://slatestarcodex.com/Stuff/genius.pdf) Polgar's book on raising his children.  
-[The SSC Review of Raise a Genius!](https://slatestarcodex.com/2017/07/31/book-review-raise-a-genius/)
+[The SSC Review of Raise a Genius!](https://slatestarcodex.com/2017/07/31/book-review-raise-a-genius/)  
 [Duncan Sabien's thoughts on education](https://medium.com/@ThingMaker/educ-101-axioms-f1cba0c85794#.rsibufxr6)  
 [How We Learn](https://www.goodreads.com/book/show/46064083-how-we-learn) covers a lot of ground on child development in terms of learning    
 [Deadlifting for babies](https://twitter.com/diviacaroline/status/1313286337647140864?s=20)  
