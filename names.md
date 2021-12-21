@@ -8,9 +8,9 @@ Letters in most lizards names that could be combined: ECERDCABGOETLSKLAV...
 
 Girl: Freyja, Maeve, Rosalind, Týr, Clover, Minerva, Aire, Letty, Petra, Lumina, Blitz, Tēkaną, Aiwiχνarənah, Haššuššara, Sunnǭ
 
-Boy: Calix, Charis, Cina, Goethe, Mage, Remi, Ren, Rowan, Silas, Wers, Kampijō
+Boy: Calix, Charis, Cina, Goethe, Mage, Remi, Ren, Rowan, Silas, Wers, Kampijō, Hindal, Arulmoli
 
-Uni: Baldur, Ark, Tissi, Dao, Hel, Nott, Ticce, Firn, Stern, Leema, Mucha, Pose, Varry, Err, Ero, Fawkes, Omen, Arcane, Varo (E), Ravana, Varius, Frōkni, Farna, Prajnakosa, Fridu, Buddhisāgara
+Uni: Baldur, Ark, Tissi, Dao, Hel, Nott, Ticce, Firn, Stern, Leema, Mucha, Pose, Varry, Err, Ero, Fawkes, Omen, Arcane, Varo (E), Ravana, Varius, Frōkni, Farna, Prajnakosa, Fridu, Buddhisāgara, Skanda
 
 **Middle Name (All names subject to change):**
 Dangera, Trouble, Impossible, Celebrated, Infinity, Incredible, Rejoice, Key, Daring, Incredible, Amazing, Uncanny, All-New, Astonishing, Avenging, Cosmic, Dark, Despicable, Extraordinary, Fearless, Friendly, Immortal, Sinister, Infamous, Invincible, Indestructible, International, Irredeemable, Legendary, Mighty, Magnificent, Maximum, Marvelous, Rampage, Spectacular, Superior, Unbelievable, Unstoppable, X-stream, Overkill, Unworthy, Mystical, Fortress
