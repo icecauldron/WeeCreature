@@ -87,7 +87,7 @@ When they do things we really don't want them to do, we can start with negotiati
 
 ## Developmental Stages
 
-As a father, I assume the most important time for me to physically be around is between the ages of 5-11. That the most crucial period in general for them to be around us is 3-8.
+As a father, I assume the most important time for me to physically be around is between the ages of 5-11. That the most crucial period in general for them to be around us is 0-8.
 
 So if, after 11 or so, they really want to go to school, we will let them go to school.
 
