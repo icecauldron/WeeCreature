@@ -153,6 +153,7 @@ We will know the work of their education is done when they can:
 - Action Philosophers
 - Logicomix
 - Isambard Kingdom Brunel, LTC Rolt
+- Napoleon: A Life, Andrew Roberts
 
 ### Activity Books:
 - The Outdoor Scientist, Temple Grandin
@@ -165,6 +166,8 @@ We will know the work of their education is done when they can:
 - White Fang, Jack London
 - The Boys in the Boat, Daniel James Brown
 - Kim, Kipling
+- The Campaigns of Napoleon, Chandler
+- Genghis Khan: His Life and Legacy, Ratchnevsky
 
 ### 10+:
 - The Seven Pillars of Wisdom, TE Lawrence
