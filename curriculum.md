@@ -127,8 +127,9 @@ We will know the work of their education is done when they can:
 - The Panchatantra
 - Njal's, Laxdaela, Egil, Fostbræðra, Gisli, & Volsunga's Saga
 - the Anabaxis
+- The Gallic Wars
 
-### 5-8, a library for them to read freely from:
+### 3-7, a library for them to read freely from:
 - The Iliad graphic novel by Gareth Hinds
 - Usagi Yojimbo Book 1
 - Pluto: Urasawa x Tezuka
@@ -151,6 +152,7 @@ We will know the work of their education is done when they can:
 - Beowulf: A Graphic Novel, Gareth Hinds
 - Action Philosophers
 - Logicomix
+- Isambard Kingdom Brunel, LTC Rolt
 
 ### Activity Books:
 - The Outdoor Scientist, Temple Grandin
