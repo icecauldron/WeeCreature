@@ -152,26 +152,27 @@ We will know the work of their education is done when they can:
 - Beowulf: A Graphic Novel, Gareth Hinds
 - Action Philosophers
 - Logicomix
-- Isambard Kingdom Brunel, LTC Rolt
-- Napoleon: A Life, Andrew Roberts
 
 ### Activity Books:
 - The Outdoor Scientist, Temple Grandin
 - Roadside Geology of Wyoming
 - Life of Fred (arithmetic in narrative)
 
-### 8-11:
-- My Side of the Mountain, Jean Craighead George
-- Hatchet, Gary Paulsen
+### 5-10:
+- My Side of the Mountain, Julie of the Wolves, and others, Jean Craighead George
+- Hatchet, The River, and others, Gary Paulsen
 - White Fang, Jack London
 - The Boys in the Boat, Daniel James Brown
 - Kim, Kipling
-- The Campaigns of Napoleon, Chandler
-- Genghis Khan: His Life and Legacy, Ratchnevsky
+- The Chronicles of Prydain
+- Island of the Blue Dolphins, Scott O'Dell
+- Call it Courage, and others, Armstrong Sperry
+
 
 ### 10+:
 - The Seven Pillars of Wisdom, TE Lawrence
 - With the Old Breed, Sledge
+- Tunnel in the Sky, Robert Heinlein
 - The Flame Trees of Thika, Elspeth Huxley
 - The Home and the World, Rabrindanath Tagore
 - The Singapore Story, LKY
@@ -188,6 +189,10 @@ We will know the work of their education is done when they can:
 - In the Land of White Death, Albanov
 - Captains Courageous, Kipling
 - The Furrow Behind Me, Angus MacLellan
+- Isambard Kingdom Brunel, LTC Rolt
+- Napoleon: A Life, Andrew Roberts
+- The Campaigns of Napoleon, Chandler
+- Genghis Khan: His Life and Legacy, Ratchnevsky
 
 ### 12+:
 - Math Without Numbers, Milo Beckman
