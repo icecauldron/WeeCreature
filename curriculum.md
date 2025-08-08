@@ -234,6 +234,9 @@ We will know the work of their education is done when they can:
 - Offworld Trading Company
 - Recettear: An Item Shop's Tale
 - Chants of Sennaar
+- Terraria
+- OpenRCT2
+- Slime Rancher
 
 ### 11+:
 - Microsoft Allegiance
