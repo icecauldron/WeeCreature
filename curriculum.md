@@ -213,6 +213,7 @@ We will know the work of their education is done when they can:
 - Keynes
 - Claude Shannon
 - Confucius, the Daoists, Shang Yang
+- Maxwell's Papers
 
 ### 14+:
 - A tour of philosophy (mostly this time is just for enabling & investing in their projects)
