@@ -108,7 +108,7 @@ We will know the work of their education is done when they can:
 - Sell a product
 - Inspire a team
 - Build something that works
-- Treat a wound
+- Treat a life-threatening wound
 - Ambush prey
 - Capture a heart
 - Console someone who just lost a parent
