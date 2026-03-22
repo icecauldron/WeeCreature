@@ -229,14 +229,11 @@ We will know the work of their education is done when they can:
 - Wing Commander
 - SWAT 3
 - Beyond All Reason
-- Company of Heroes 2
 - Dawn of War 2
 - Port Royale 2
 - Offworld Trading Company
 - Recettear: An Item Shop's Tale
 - Chants of Sennaar
-- Terraria
-- OpenRCT2
 - Slime Rancher
 
 ### 11+:
