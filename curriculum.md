@@ -137,7 +137,6 @@ We will know the work of their education is done when they can:
 - IF, David J Smith
 - The Boy Who Loved Math, Heiligmen, LeUyen
 - Thing Explainer, Randall Munroe
-- The Illuminated Edda
 - Sonya's Chickens, Phoebe Wahl
 - Encyclopedia Prehistorica (pop-ups), Sabuda & Reinhart
 - Showa 1926-1939, Mizuki & Davisson
